@@ -1,8 +1,0 @@
-{
-  "name": "ai-api",
-  "description": "Custom extension to connect Minecraft to AI API services",
-  "dependencies": {},
-  "files": [
-    "aiapi.ts"
-  ]
-}
